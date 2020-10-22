@@ -12,4 +12,5 @@ Create a spool holder that will weigh the amount of filament currently on the ma
 Considerations:
 
 Menu system to change between functional mode and calibration mode\
-Ability to tare/calibrate the system
+Ability to tare/calibrate the system\
+Save calibration value to EEPROM memory so calibration is not needed every time the power is cycled
